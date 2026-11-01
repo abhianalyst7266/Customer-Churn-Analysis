@@ -48,9 +48,6 @@ Finance-Analysis-PowerBI-Dashboard/
 ├── Screenshots/
 │   └── Customer_Churn_Dashboard.jpg
 │
-├── Documentation/
-│   └── Project_Details.md
-│
 ├── README.md
 └── LICENSE
 
