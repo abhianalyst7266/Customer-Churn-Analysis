@@ -21,16 +21,14 @@ This dashboard provides a comprehensive overview of customer churn and retention
 - Normal Risk Retained Customers: 99
 - High Risk Retained Customers: 13
 
-## 🛠️ Tools & Technologies
-
+ **🛠️ Tools & Technologies**
 - **Microsoft Power BI** – Dashboard Development
 - **Power Query** – Data Cleaning and Transformation
 - **DAX** – KPI Calculation and Data Analysis
 - **Data Visualization** – Interactive Charts and Reports
 - **Business Intelligence** – Customer Performance Analysis
 
-## 📈 Dashboard Analysis
-
+**📈 Dashboard Analysis**
 - Customer Churn and Retention Analysis
 - Retained Customers by Risk Type
 - Customer Count by Contract Type
@@ -56,8 +54,7 @@ Finance-Analysis-PowerBI-Dashboard/
 ├── README.md
 └── LICENSE
 
-## 🚀 How to Use
-
+ **🚀 How to Use**
 1. Download or clone this repository.
 2. Open the `.pbix` file in Microsoft Power BI Desktop.
 3. Update the data source path if required.
@@ -65,8 +62,7 @@ Finance-Analysis-PowerBI-Dashboard/
 5. Explore the dashboard charts and visualizations.
 6. Analyze customer churn, retention, and risk categories.
 
-## 🎯 Project Objective
-
+**🎯 Project Objective**
 - Analyze customer churn and retention performance.
 - Identify customer groups with higher churn.
 - Understand customer preferences across contract types.
